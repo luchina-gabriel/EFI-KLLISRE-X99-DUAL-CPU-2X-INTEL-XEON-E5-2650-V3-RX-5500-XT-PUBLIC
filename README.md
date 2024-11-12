@@ -1,5 +1,7 @@
 # Hackintosh, KLLISRE X99 DUAL CPU, Intel Xeon E5 2650 v3, Radeon RX 5500 XT
 
+![Overview](https://github.com/user-attachments/assets/a70c3f36-7fa7-4348-b575-6c20d68c8d1b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.1)
